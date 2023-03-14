@@ -310,7 +310,7 @@ var day=0;
 
 
 
-async function buscar()
+function buscar()
 {
 
 
@@ -330,7 +330,7 @@ async function buscar()
 	imag.src="https://www.7timer.info/bin/astro.php?lon="+lat_lon[1]+"&lat="+lat_lon[0]+"&ac=0&lang=en&unit=metric&output=internal&tzshift=0";
 	var a;
 
-	await fetch("http://www.7timer.info/bin/api.pl?lon="+lat_lon[1]+"&lat="+lat_lon[0]+"&product=civil&output=json",{method: "GET"})
+	fetch("http://www.7timer.info/bin/api.pl?lon="+lat_lon[1]+"&lat="+lat_lon[0]+"&product=civil&output=json",{method: "GET"})
 	.then(res => res.json())
 	.then((data) => {
 
