@@ -413,7 +413,7 @@ async function buscar()
   	h4_1.innerHTML="El cielo en "+ selection.value;
 	div.appendChild(h4_1);
     })
-	.catch(error => alert("Error en la busqueda"));
+	.catch(error => console.log(error));
 
 
 		
