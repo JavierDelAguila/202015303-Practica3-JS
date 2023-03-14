@@ -1,0 +1,198 @@
+[
+{
+    "Comunidad": "Valencia",
+    "Provincia": "Alicante/Alacant",
+    "Poblacion": "Alicante",
+    "Latitud": "38,84783",
+    "Longitud": "-0,1499264",
+  },
+
+
+{
+    "Comunidad": "Andalucia",
+    "Provincia": "Sevilla",
+    "Poblacion": "Sevilla",
+    "Latitud": "37,38264",
+    "Longitud": "-5,996295",
+    "Altitud": "8,265573",
+    "Habitantes": 703206,
+    "Hombres": 335097,
+    "Mujeres": 368109
+ },
+
+
+{
+    "Comunidad": "Aragon",
+    "Provincia": "Zaragoza",
+    "Poblacion": "Zaragoza",
+    "Latitud": "41,65629",
+    "Longitud": "-0,8765379",
+    "Altitud": "204,0027",
+    "Habitantes": 674317,
+    "Hombres": 328470,
+    "Mujeres": 345847
+  },
+
+
+{
+    "Comunidad": "Asturias",
+    "Provincia": "Asturias",
+    "Poblacion": "Oviedo",
+    "Latitud": "43,36026",
+    "Longitud": "-5,844759",
+    "Altitud": "238,8659",
+    "Habitantes": 224005,
+    "Hombres": 104605,
+    "Mujeres": 119400
+  },
+
+
+
+{
+    "Comunidad": "Islas Baleares",
+    "Provincia": "Illes Balears",
+    "Poblacion": "Palma",
+    "Latitud": "39,6091",
+    "Longitud": "3,112162",
+    "Altitud": "112,8493",
+    "Habitantes": 2886,
+    "Hombres": 1431,
+    "Mujeres": 1455
+  },
+
+
+{
+    "Comunidad": "Canarias",
+    "Provincia": "Santa Cruz de Tenerife",
+    "Poblacion": "Santa Cruz de Tenerife",
+    "Latitud": "28,29614",
+    "Longitud": "-16,81461",
+    "Altitud": "929,3008",
+    "Habitantes": 12050,
+    "Hombres": 6035,
+    "Mujeres": 6015
+  },
+
+{
+    "Comunidad": "Cantabria",
+    "Provincia": "Cantabria",
+    "Poblacion": "Santander",
+    "Latitud": "43,46096",
+    "Longitud": "-3,807934",
+    "Altitud": "4,1",
+    "Habitantes": 182700,
+    "Hombres": 84984,
+    "Mujeres": 97716
+  },
+
+
+{
+    "Comunidad": "Castilla La Mancha",
+    "Provincia": "Toledo",
+    "Poblacion": "Toledo",
+    "Latitud": "39,85678",
+    "Longitud": "-4,024476",
+    "Altitud": "524,0618",
+    "Habitantes": 82291,
+    "Hombres": 39497,
+    "Mujeres": 42794
+  },
+
+{
+    "Comunidad": "Madrid",
+    "Provincia": "Madrid",
+    "Poblacion": "Madrid",
+    "Latitud": "40,41669",
+    "Longitud": "-3,700346",
+    "Altitud": "653,0047",
+    "Habitantes": 3255944,
+    "Hombres": 1532079,
+    "Mujeres": 1723865
+  },
+
+{
+    "Comunidad": "Catalunya",
+    "Provincia": "Barcelona",
+    "Poblacion": "Barcelona",
+    "Latitud": "41,38792",
+    "Longitud": "2,169919",
+    "Altitud": "19,99069",
+    "Habitantes": 1621537,
+    "Hombres": 771570,
+    "Mujeres": 849967
+  },
+
+{
+    "Comunidad": "Extremadura",
+    "Provincia": "Badajoz",
+    "Poblacion": "Merida",
+    "Latitud": "38,91586",
+    "Longitud": "-6,345606",
+    "Altitud": "227,433",
+    "Habitantes": 56395,
+    "Hombres": 27555,
+    "Mujeres": 28840
+  },
+
+
+{
+    "Comunidad": "Galicia",
+    "Provincia": "A Coruña",
+    "Poblacion": "Santiago de Compostela",
+    "Latitud": "42,88045",
+    "Longitud": "-8,546304",
+    "Altitud": "250,5518",
+    "Habitantes": 95092,
+    "Hombres": 44320,
+    "Mujeres": 50772
+  },
+
+{
+    "Comunidad": "Pais Vasco",
+    "Provincia": "Vizcaya",
+    "Poblacion": "Bilbao",
+    "Latitud": "43,25696",
+    "Longitud": "-2,923441",
+    "Altitud": "17,88842",
+    "Habitantes": 354860,
+    "Hombres": 168019,
+    "Mujeres": 186841
+  },
+
+
+{
+    "Comunidad": "Navarra",
+    "Provincia": "Navarra",
+    "Poblacion": "Pamplona",
+    "Latitud": "42,81721",
+    "Longitud": "-1,646767",
+    "Altitud": "458,1406",
+    "Habitantes": 198491,
+    "Hombres": 95145,
+    "Mujeres": 103346
+  },
+
+
+{
+    "Comunidad": "Murcia",
+    "Provincia": "Murcia",
+    "Poblacion": "Murcia",
+    "Latitud": "37,98344",
+    "Longitud": "-1,12989",
+    "Altitud": "51,07087",
+    "Habitantes": 436870,
+    "Hombres": 216744,
+    "Mujeres": 220126
+  },
+{
+    "Comunidad": "La Rioja",
+    "Provincia": "La Rioja",
+    "Poblacion": "Logroño",
+    "Latitud": "42,46577",
+    "Longitud": "-2,449995",
+    "Altitud": "396,4728",
+    "Habitantes": 152107,
+    "Hombres": 73813,
+    "Mujeres": 78294
+  }
+]
